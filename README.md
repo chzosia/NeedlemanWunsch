@@ -18,4 +18,10 @@ This project implements the **Needleman–Wunsch algorithm** for global alignmen
 
 ```bash
 python BioInfTask1.py --file your_sequences.fasta
-python BioInfTask1.py -a ACTGACTG -b ACT-ACTG
+```
+
+### Option 2: From command-line
+
+```bash
+python BioInfTask1.py -a ACTGACTG -b ACTACTG
+```
